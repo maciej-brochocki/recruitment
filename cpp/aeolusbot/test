@@ -1,0 +1,2 @@
+./gfx_api test3.png I R 100 100 1 O 20 X S out.png T >test.txt
+
